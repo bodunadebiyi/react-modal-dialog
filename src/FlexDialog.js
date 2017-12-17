@@ -1,6 +1,7 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
 import classNames from 'classnames';
 import { inject } from 'narcissus';
+import PropTypes from 'prop-types';
 
 import UnstyledFlexDialog from './UnstyledFlexDialog';
 
